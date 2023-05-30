@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.containerHeader {
+    background-color: #f2f2f2;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+.logo1 {
+    max-width: 100px;
+}
+
+.links1 {
+    list-style-type: none;
+    display: flex;
+    gap: 10px;
+}
+
+.links1 a {
+    text-decoration: none;
+    color: #000;
+}
+
+.try {
+    background-color: #28a745;
+    margin-left: 10px;
+}
+
+.login {
+    margin-right: 10px;
+}
